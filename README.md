@@ -1,6 +1,6 @@
 # Aplikasi Penentuan Karyawan Teladan Dengan Metode AHP
 
-Membangun Aplikasi Dekstop Sistem Pendukung Keputusan menggunakan Java Netbeans, dibuat untuk menyelesaikan Tugas Akhir sebagai salah satu syarat kelulusan di Universitas Indraprasta PGRI
+Membangun Aplikasi Dekstop Sistem Pendukung Keputusan menggunakan Java Netbeans
 
 ## Teknologi 
 
