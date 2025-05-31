@@ -12,7 +12,7 @@ Website ini dikembangkan menggunakan teknologi berikut:
 
 - [Yabsir Aditya](https://www.instagram.com/yabsir.y/)
 
-# Spesifikasi Software yang digunankan
+## Spesifikasi Software yang digunankan
 - Netbeans IDE 21
 - JDK Java 21
 - Apache dan MysQL
